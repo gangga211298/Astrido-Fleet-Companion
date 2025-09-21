@@ -15,7 +15,10 @@ The claim rate remained relatively low:
 - 3rd Service: 89%  
 
 Further analysis indicated that **Fleet Customers** were the primary factor hindering the achievement of T-Care claim targets.
-<img width="434" height="146" alt="Picture1" src="https://github.com/user-attachments/assets/3c081315-e149-4818-a414-fbf5984407e4" />
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3c081315-e149-4818-a414-fbf5984407e4" width="434" height="146" />
+</p>
 
 This situation directly affects fleet customers, as they risk losing their entitlement to the **Extended Warranty**, which protects the long-term value of their vehicles.
 
@@ -95,7 +98,7 @@ The following is the **workflow of Astrido Fleet Companion** usage :
 
 ---
 
-## 📲 Application & Dashboard
+## Application & Dashboard
 The entire workflow is integrated in one system and monitored in **real time**.
 
 - **Astrido Fleet Companion App (AppSheet)** → Main tool for Pool Managers & CRM to manage schedules, reminders, and follow-ups.  
@@ -109,10 +112,13 @@ This integration enables Management, Pool Managers, and Astrido Karawaci’s Aft
 
 🔗 **Demo Application**: [AppSheet Link](https://www.appsheet.com/start/ecc8a290-20c2-45f2-a150-8e9590c83c82)  
 *(Username: Gangga | Password: Gangga)*  
+
 <img width="1280" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/863ab914-e023-4fb8-8fe9-9b034abd8b97" />
+
 <img width="1280" height="720" alt="Slide8" src="https://github.com/user-attachments/assets/7c659694-15ed-4c32-86af-b872f7ab85ab" />
 
 🔗 **Monitoring Dashboard**: [Looker Studio Link](https://lookerstudio.google.com/reporting/2e9e3f09-b06c-4a95-8c92-1a9b3110ecf9/page/p_9b511l8cwd)  
+
 ![KCI_ _MPM_Rent_Monitoring (1)_page-0001](https://github.com/user-attachments/assets/56e9170b-f77c-4f2f-a892-f6628bd0cf1f)
 
 ---
@@ -130,6 +136,7 @@ The implementation of **Astrido Fleet Companion** has streamlined the previously
   - Monthly target evaluation  
 
 **Result:**  
+
 <img width="1280" height="720" alt="wwwww" src="https://github.com/user-attachments/assets/d4233b2b-2f69-4a5f-807b-f32f79cd691d" />
 
 The fragmented and hard-to-monitor T-Care claim process has transformed into a system that is **automated, integrated, and transparent**.  
