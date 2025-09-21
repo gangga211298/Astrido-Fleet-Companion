@@ -3,54 +3,66 @@
 ## Background
 Since July 2022, Toyota has introduced the **T-Care After-Sales Program** across all official Toyota workshops.  
 This program was designed to enhance customer satisfaction by providing two key benefits:
+
 - Free service and spare parts for up to **7 periodic services**, or within **3 years / 60,000 km**.  
 - **Extended Warranty** for 1 year / 20,000 km, provided that customers consistently perform maintenance every 6 months.  
+
 Despite these significant benefits, the implementation of T-Care at **Astrido Toyota Karawaci** during the period of **January–March 2024** was not optimal.  
 The claim rate remained relatively low:
+
 - 1st Service: 84%  
 - 2nd Service: 86%  
 - 3rd Service: 89%  
+
 Further analysis indicated that **Fleet Customers** were the primary factor hindering the achievement of T-Care claim targets.
+<img width="434" height="146" alt="Picture1" src="https://github.com/user-attachments/assets/3c081315-e149-4818-a414-fbf5984407e4" />
+
 This situation directly affects fleet customers, as they risk losing their entitlement to the **Extended Warranty**, which protects the long-term value of their vehicles.
+
 ### Fleet Customer Composition at Astrido Toyota Karawaci:
 - PT. Mitra Pinasthika Mustika Rent (MPM Rent) – 81%  
 - PT. Autorent Lancar Sejahtera – 6%  
 - PT. Bestindo Cakra Utama – 3%  
 - PT. Anugrah Inti Abadi – 2%  
 - Others – 9%  
+
 As a follow-up, the team conducted a visit to **MPM Rent**.  
 From the discussion, several key challenges were identified that contributed to the low T-Care claims:
+
 - Pool Managers & Management had **no visibility** into Toyota units’ claim status.  
 - There was **no routine monitoring system** for T-Care claims.  
 - Pool Managers had **no KPI related to T-Care**, and Management had not assigned them responsibility to ensure all units submitted claims.  
+
 ---
 
-## 🎯 Objectives
+## Objectives
 The development of **Astrido Fleet Companion** aims to provide a tool that supports Pool Managers and Management in optimizing T-Care claims, with a focus on:
 
 - **Simplifying periodic service reminders**  
   Helping Pool Managers remind end-users in a timely manner based on automated service due dates.  
-
 - **Enhancing coordination between Astrido Karawaci & Pool Managers**  
   Providing an integrated communication platform covering service schedules, bookings, and mobile service requests.  
-
 - **Delivering a real-time monitoring dashboard**  
   Offering comprehensive visibility to automatically, accurately, and promptly track T-Care claim progress.  
 
 ---
 
-## 🛠️ Tools & Technology
+## Tools & Technology
 - **AppSheet** → Front-end application for Pool Managers & Management as the main interface.  
 - **Google Sheets** → Centralized database for storing service schedules and T-Care claim records.  
 - **Looker Studio** → Real-time monitoring dashboard for service compliance and claim progress.  
 
 ---
 
-## 🔄 Flow of Astrido Fleet Companion
+## Flow of Astrido Fleet Companion
 **Astrido Fleet Partner** is a collaboration between **Astrido Toyota** and **MPM Rent**, involving:  
 
 - Astrido Toyota Kebon Jeruk PICs: Admin, MRA, and Service Manager  
-- MPM Rent PICs: CRM, Pool Manager, and Management  
+- MPM Rent PICs: CRM, Pool Manager, and Management
+  
+The following is the **workflow of Astrido Fleet Companion** usage :
+
+<img width="1280" height="720" alt="Slide1" src="https://github.com/user-attachments/assets/fa3ed991-7490-4c86-899f-cc4cb9787a86" />
 
 ### Detail Flow:
 1. **System Generates Data (Automated Data Processing)**  
@@ -97,12 +109,15 @@ This integration enables Management, Pool Managers, and Astrido Karawaci’s Aft
 
 🔗 **Demo Application**: [AppSheet Link](https://www.appsheet.com/start/ecc8a290-20c2-45f2-a150-8e9590c83c82)  
 *(Username: Gangga | Password: Gangga)*  
+<img width="1280" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/863ab914-e023-4fb8-8fe9-9b034abd8b97" />
+<img width="1280" height="720" alt="Slide8" src="https://github.com/user-attachments/assets/7c659694-15ed-4c32-86af-b872f7ab85ab" />
 
 🔗 **Monitoring Dashboard**: [Looker Studio Link](https://lookerstudio.google.com/reporting/2e9e3f09-b06c-4a95-8c92-1a9b3110ecf9/page/p_9b511l8cwd)  
+![KCI_ _MPM_Rent_Monitoring (1)_page-0001](https://github.com/user-attachments/assets/56e9170b-f77c-4f2f-a892-f6628bd0cf1f)
 
 ---
 
-## 📊 Results & Insights
+## Results & Insights
 The implementation of **Astrido Fleet Companion** has streamlined the previously complex process of T-Care claim monitoring.  
 
 - Pool Managers → Monitor claims in real time for faster & targeted follow-ups.  
@@ -115,11 +130,13 @@ The implementation of **Astrido Fleet Companion** has streamlined the previously
   - Monthly target evaluation  
 
 **Result:**  
+<img width="1280" height="720" alt="wwwww" src="https://github.com/user-attachments/assets/d4233b2b-2f69-4a5f-807b-f32f79cd691d" />
+
 The fragmented and hard-to-monitor T-Care claim process has transformed into a system that is **automated, integrated, and transparent**.  
 
 ---
 
-## 📝 Key Learnings
+## Key Learnings
 1. **Centralized Data Accelerates Processes**  
    Integrated database reduces duplication, minimizes errors, and speeds up access.  
 
