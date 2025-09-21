@@ -113,9 +113,9 @@ This integration enables Management, Pool Managers, and Astrido Karawaci’s Aft
 🔗 **Demo Application**: [AppSheet Link](https://www.appsheet.com/start/ecc8a290-20c2-45f2-a150-8e9590c83c82)  
 *(Username: Gangga | Password: Gangga)*  
 
-<img width="1280" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/863ab914-e023-4fb8-8fe9-9b034abd8b97" />
+<p align="center"><img width="1280" height="720" alt="Slide7" src="https://github.com/user-attachments/assets/863ab914-e023-4fb8-8fe9-9b034abd8b97" /></p>
 
-<img width="1280" height="720" alt="Slide8" src="https://github.com/user-attachments/assets/7c659694-15ed-4c32-86af-b872f7ab85ab" />
+<p align="center"><img width="1280" height="720" alt="Slide8" src="https://github.com/user-attachments/assets/7c659694-15ed-4c32-86af-b872f7ab85ab" /></p>
 
 🔗 **Monitoring Dashboard**: [Looker Studio Link](https://lookerstudio.google.com/reporting/2e9e3f09-b06c-4a95-8c92-1a9b3110ecf9/page/p_9b511l8cwd)  
 
